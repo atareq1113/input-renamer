@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Laylo Verification Code Renamer
+// @name         Input Renamer
 // @version      1.4
-// @description  Renames multiple verification code input fields on laylo.com
+// @description  Renames multiple input fields on example.com
 // @author       Abdullah Tareq
-// @match        *://laylo.com/*
+// @match        *://example.com/*
 // @grant        none
 // ==/UserScript==
 
